@@ -251,7 +251,7 @@ h6 {
 	filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.7));
 }
 .video-section {
-	background: url(images/video-bg1.png) no-repeat fixed center;
+	background: url(images/video-bg.png) no-repeat fixed center;
 	background-size: cover;
 	overflow: hidden;
 }
